@@ -1,0 +1,30 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:zcml="http://namespaces.zope.org/zcml"
+    i18n_domain="interlegis.portalmodelo.api">
+
+  <genericsetup:registerProfile
+      name="default"
+      title="Portal Modelo: API"
+      directory="profiles/default"
+      description="Instala o pacote interlegis.portalmodelo.api dentro de um portal Plone"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      i18n:attributes="title; description"
+      />
+
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="interlegis.portalmodelo.api: Remoção do Pacote"
+      directory="profiles/uninstall"
+      description="Remove o pacote interlegis.portalmodelo.api de dentro de um portal Plone"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      i18n:attributes="title; description"
+      />
+
+  <include package=".upgrades" />
+
+  <utility factory=".config.HiddenProfiles" name="interlegis.portalmodelo.api" />
+
+</configure>

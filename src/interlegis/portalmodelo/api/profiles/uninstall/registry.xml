@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<registry>
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.title" remove="true" />
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.kind" remove="true" />
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.address" remove="true"/>
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.postal_code" remove="true"/>
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.city" remove="true"/>
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.state" remove="true"/>
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.id" remove="true"/>
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.telephone" remove="true"/>
+ <record name="interlegis.portalmodelo.api.controlpanel.IPortalSettings.email" remove="true"/>
+</registry>

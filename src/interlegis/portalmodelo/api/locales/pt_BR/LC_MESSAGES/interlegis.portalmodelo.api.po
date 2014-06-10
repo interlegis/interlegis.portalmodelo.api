@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-05-16 16:34+0000\n"
+"PO-Revision-Date: 2014-05-16 13:33-0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: DOMAIN\n"
+
+#: interlegis/portalmodelo/api/controlpanel.py:36
+msgid "Address"
+msgstr "Endereço"
+
+#: interlegis/portalmodelo/api/controlpanel.py:107
+msgid "An error occurred while registering the site (error code ${code})"
+msgstr "Ocorreu um erro ao registrar o site (código de erro ${code})"
+
+#: interlegis/portalmodelo/api/config.py:23
+msgid "Assembleia Legislativa"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:48
+msgid "City"
+msgstr "Cidade"
+
+#: interlegis/portalmodelo/api/config.py:24
+msgid "Câmara Distrital"
+msgstr ""
+
+#: interlegis/portalmodelo/api/config.py:25
+msgid "Câmara Municipal"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:73
+msgid "Email"
+msgstr "Email"
+
+#: interlegis/portalmodelo/api/controlpanel.py:61
+msgid "Organization ID"
+msgstr "CNPJ"
+
+#: interlegis/portalmodelo/api/controlpanel.py:23
+msgid "Organization Name"
+msgstr "Nome do Órgão"
+
+#: interlegis/portalmodelo/api/controlpanel.py:29
+msgid "Organization Type"
+msgstr "Tipo do Órgão"
+
+#: interlegis/portalmodelo/api/config.py:26
+msgid "Outro"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:118
+msgid "Portal Modelo"
+msgstr "Portal Modelo"
+
+#: interlegis/portalmodelo/api/profiles/default/controlpanel.xml
+msgid "Portal Modelo Settings"
+msgstr "Configurações do Portal Modelo"
+
+#: interlegis/portalmodelo/api/controlpanel.py:42
+msgid "Postal code"
+msgstr "CEP"
+
+#: interlegis/portalmodelo/api/controlpanel.py:79
+msgid "Register with Interlegis?"
+msgstr "Registrar no Interlegis?"
+
+#: interlegis/portalmodelo/api/controlpanel.py:119
+msgid "Settings for the Portal Modelo."
+msgstr "Configurações do Portal Modelo."
+
+#: interlegis/portalmodelo/api/controlpanel.py:104
+msgid "Site successfully registered with Interlegis!"
+msgstr "Portal registrado com êxito no Interlegis!"
+
+#: interlegis/portalmodelo/api/controlpanel.py:54
+msgid "State"
+msgstr "Estado"
+
+#: interlegis/portalmodelo/api/controlpanel.py:67
+msgid "Telephone"
+msgstr "Telefone"
+
+#: interlegis/portalmodelo/api/config.py:27
+msgid "Tribunal de Contas Estadual"
+msgstr ""
+
+#: interlegis/portalmodelo/api/config.py:28
+msgid "Tribunal de Contas Municipal"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:37
+msgid "help_address"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:49
+msgid "help_city"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:74
+msgid "help_email"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:62
+msgid "help_id"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:30
+msgid "help_kind"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:24
+msgid "help_name"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:43
+msgid "help_postal_code"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:80
+msgid "help_register"
+msgstr "Deixando essa opção selecionada você irá registrar a URL desse portal no Interlegis e cadastrá-lo como uma fonte de busca no <a href=\"​http://busca.interlegis.leg.br\">BuscaLeg?</a>, além de cadastrá-lo na relação de Portais Modelo em uso."
+
+#: interlegis/portalmodelo/api/controlpanel.py:55
+msgid "help_state"
+msgstr ""
+
+#: interlegis/portalmodelo/api/controlpanel.py:68
+msgid "help_telephone"
+msgstr ""
+

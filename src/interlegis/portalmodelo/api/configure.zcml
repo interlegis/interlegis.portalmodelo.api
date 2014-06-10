@@ -1,0 +1,29 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:grok="http://namespaces.zope.org/grok"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    i18n_domain="interlegis.portalmodelo.api">
+
+  <five:registerPackage package="." />
+  <i18n:registerTranslations directory="locales" />
+
+  <include package="plone.app.registry" />
+  <include package="five.grok" />
+  <include package="Products.BrFieldsAndWidgets" />
+
+  <grok:grok package="." />
+
+  <browser:page
+      name="portalmodelo-settings"
+      for="Products.CMFPlone.interfaces.IPloneSiteRoot"
+      permission="cmf.ManagePortal"
+      class=".controlpanel.PortalSettingsControlPanel"
+      />
+
+  <browser:resourceDirectory name="interlegis.portalmodelo.api" directory="static" />
+
+  <include file="profiles.zcml" />
+
+</configure>
