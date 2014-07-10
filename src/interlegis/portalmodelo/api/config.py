@@ -21,9 +21,12 @@ class HiddenProfiles(object):
 
 KINDS = SimpleVocabulary([
     SimpleTerm(value=u'assembleia-legislativa', title=_(u'Assembleia Legislativa')),
-    SimpleTerm(value=u'camara-distrital', title=_(u'Câmara Distrital')),
+    SimpleTerm(value=u'camara-dos-deputados', title=_(u'Câmara dos Deputados')),
+    SimpleTerm(value=u'camara-legislativa', title=_(u'Câmara Legislativa')),
     SimpleTerm(value=u'camara-municipal', title=_(u'Câmara Municipal')),
     SimpleTerm(value=u'outro', title=_(u'Outro')),
+    SimpleTerm(value=u'senado-federal', title=_(u'Senado Federal')),
+    SimpleTerm(value=u'tribunal-de-contas-da-uniao', title=_(u'Tribunal de Contas da União')),
     SimpleTerm(value=u'tribunal-de-contas-estadual', title=_(u'Tribunal de Contas Estadual')),
     SimpleTerm(value=u'tribunal-de-contas-municipal', title=_(u'Tribunal de Contas Municipal')),
 ])
