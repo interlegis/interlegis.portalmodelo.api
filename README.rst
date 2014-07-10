@@ -57,9 +57,12 @@ Tipo do órgão
 O tipo de órgão é um vocabulário controlado com os seguinte valores possíveis:
 
 * Assembleia Legislativa
-* Câmara Distrital
+* Câmara dos Deputados
+* Câmara Legislativa
 * Câmara Municipal
 * Outro
+* Senado Federal
+* Tribunal de Contas da União
 * Tribunal de Contas Estadual
 * Tribunal de Contas Municipal
 
