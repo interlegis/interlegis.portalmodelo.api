@@ -31,10 +31,14 @@ msgid "City"
 msgstr "Cidade"
 
 #: interlegis/portalmodelo/api/config.py:24
-msgid "Câmara Distrital"
+msgid "Câmara dos Deputados"
 msgstr ""
 
 #: interlegis/portalmodelo/api/config.py:25
+msgid "Câmara Legislativa"
+msgstr ""
+
+#: interlegis/portalmodelo/api/config.py:26
 msgid "Câmara Municipal"
 msgstr ""
 
@@ -54,7 +58,7 @@ msgstr "Nome do Órgão"
 msgid "Organization Type"
 msgstr "Tipo do Órgão"
 
-#: interlegis/portalmodelo/api/config.py:26
+#: interlegis/portalmodelo/api/config.py:27
 msgid "Outro"
 msgstr ""
 
@@ -74,6 +78,10 @@ msgstr "CEP"
 msgid "Register with Interlegis?"
 msgstr "Registrar no Interlegis?"
 
+#: interlegis/portalmodelo/api/config.py:28
+msgid "Senado Federal"
+msgstr ""
+
 #: interlegis/portalmodelo/api/controlpanel.py:119
 msgid "Settings for the Portal Modelo."
 msgstr "Configurações do Portal Modelo."
@@ -90,11 +98,15 @@ msgstr "Estado"
 msgid "Telephone"
 msgstr "Telefone"
 
-#: interlegis/portalmodelo/api/config.py:27
+#: interlegis/portalmodelo/api/config.py:29
+msgid "Tribunal de Contas da União"
+msgstr ""
+
+#: interlegis/portalmodelo/api/config.py:30
 msgid "Tribunal de Contas Estadual"
 msgstr ""
 
-#: interlegis/portalmodelo/api/config.py:28
+#: interlegis/portalmodelo/api/config.py:31
 msgid "Tribunal de Contas Municipal"
 msgstr ""
 
