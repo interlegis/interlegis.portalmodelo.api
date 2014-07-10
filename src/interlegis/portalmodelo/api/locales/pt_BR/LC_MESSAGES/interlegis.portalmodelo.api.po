@@ -44,19 +44,19 @@ msgstr ""
 
 #: interlegis/portalmodelo/api/controlpanel.py:73
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: interlegis/portalmodelo/api/controlpanel.py:61
 msgid "Organization ID"
-msgstr "CNPJ"
+msgstr "CNPJ / Outro Documento (descriminar)"
 
 #: interlegis/portalmodelo/api/controlpanel.py:23
 msgid "Organization Name"
-msgstr "Nome do Órgão"
+msgstr "Nome da Organização"
 
 #: interlegis/portalmodelo/api/controlpanel.py:29
 msgid "Organization Type"
-msgstr "Tipo do Órgão"
+msgstr "Tipo de Organização"
 
 #: interlegis/portalmodelo/api/config.py:27
 msgid "Outro"
@@ -96,7 +96,7 @@ msgstr "Estado"
 
 #: interlegis/portalmodelo/api/controlpanel.py:67
 msgid "Telephone"
-msgstr "Telefone"
+msgstr "Telefone (com DDD)"
 
 #: interlegis/portalmodelo/api/config.py:29
 msgid "Tribunal de Contas da União"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: interlegis/portalmodelo/api/controlpanel.py:80
 msgid "help_register"
-msgstr "Deixando essa opção selecionada você irá registrar a URL desse portal no Interlegis e cadastrá-lo como uma fonte de busca no <a href=\"​http://busca.interlegis.leg.br\">BuscaLeg?</a>, além de cadastrá-lo na relação de Portais Modelo em uso."
+msgstr "Deixando essa opção selecionada você irá registrar a URL desse portal no Interlegis e cadastrá-lo como uma fonte de busca no <a href=\"http://busca.interlegis.leg.br\">BuscaLeg</a>, além de cadastrá-lo na relação de Portais Modelo em uso."
 
 #: interlegis/portalmodelo/api/controlpanel.py:55
 msgid "help_state"
