@@ -70,7 +70,7 @@ JSON API
 --------
 
 O pacote fornece duas views na raiz do portal para consulta de informação em
-formato JSON: ``@@portalmodelo-json`` e ``@@transparencia- json``.
+formato JSON: ``@@portalmodelo-json`` e ``@@transparency-json``.
 
 ``@@portalmodelo-json``
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -90,7 +90,7 @@ configlet do painel de controle do portal::
         "title": "Portal Modelo"
     }
 
-``@@transparencia-json``
+``@@transparency-json``
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Disponibiliza o conteúdo publicado dentro da estrutura de pastas definida para

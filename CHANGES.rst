@@ -4,7 +4,8 @@ Changelog
 1.0b3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Renamed opendata API URL from transparencia-json to transparency-json.
+  [jeanferri]
 
 
 1.0b2 (2014-07-02)

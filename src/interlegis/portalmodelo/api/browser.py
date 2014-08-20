@@ -47,7 +47,7 @@ class TransparencyJSONView(grok.View):
     """
     grok.context(IPloneSiteRoot)
     grok.require('zope2.View')
-    grok.name('transparencia-json')
+    grok.name('transparency-json')
 
     def update(self):
         self.folder = getattr(api.portal.get(), 'transparencia', None)
