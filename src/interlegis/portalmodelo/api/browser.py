@@ -13,7 +13,9 @@ from zope.component import getUtility
 import json
 
 FOLDER_IDS = [
-    'despesas', 'transferencias', 'receitas', 'acompanhamento', 'licitacoes']
+    'orcamento-e-financas', 'licitacoes-e-contratos', 'recursos-humanos',
+    'parlamentares-e-gabinetes', 'atos-administrativos']
+
 SERIALIZABLE_FIELD_NAMES = [
     'title', 'description', 'creation_date', 'modification_date',
     'start_date', 'end_date', 'remoteUrl', 'file', 'image']

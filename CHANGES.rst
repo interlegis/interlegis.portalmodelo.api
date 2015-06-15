@@ -4,6 +4,9 @@ Changelog
 1.0b4 (unreleased)
 ------------------
 
+- Fix Transparency API broked when changed main folder IDs
+  [jeanferri]
+
 - Fix test test_setup.py
   [marciomazza]
 
