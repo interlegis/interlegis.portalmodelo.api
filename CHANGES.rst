@@ -4,6 +4,9 @@ Changelog
 1.0b4 (unreleased)
 ------------------
 
+- Declare transparency folder ID as a constant
+  [jeanferri]
+
 - Fix Transparency API broked when changed main folder IDs
   [jeanferri]
 

@@ -12,6 +12,8 @@ from zope.component import getUtility
 
 import json
 
+TRANSPARENCY_ID = 'transparencia'
+
 FOLDER_IDS = [
     'orcamento-e-financas', 'licitacoes-e-contratos', 'recursos-humanos',
     'parlamentares-e-gabinetes', 'atos-administrativos']
@@ -52,7 +54,7 @@ class TransparencyJSONView(grok.View):
     grok.name('transparency-json')
 
     def update(self):
-        self.folder = getattr(api.portal.get(), 'transparencia', None)
+        self.folder = getattr(api.portal.get(), TRANSPARENCY_ID, None)
         self.catalog = api.portal.get_tool('portal_catalog')
 
     def render(self):
