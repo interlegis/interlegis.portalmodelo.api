@@ -1,5 +1,7 @@
 Contributors
 ============
 
-* Jean Ferri
 * Héctor Velarde
+* Jean Ferri
+* Karyn Nassif
+* Marcio Mazza

@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0b4 (unreleased)
+1.0b4 (2015-06-17)
 ------------------
 
 - Declare transparency folder ID as a constant
