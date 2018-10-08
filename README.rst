@@ -111,3 +111,8 @@ cumprir com a Lei de Transparência::
         "receitas": [],
         "transferencias": []
     }
+
+Contribuindo
+============
+
+Para contribuir com o projeto, por favor, leia o `CONTRIBUTING <https://github.com/interlegis/interlegis.portalmodelo.api/blob/master/.github/CONTRIBUTING.md>`_.
