@@ -1,10 +1,11 @@
 Changelog
 =========
 
-1.0b5 (unreleased)
+1.0b5 (2019-08-22)
 ------------------
 
-- Nothing changed yet.
+- Fix Interlegis url.
+  [rafahela]
 
 
 1.0b4 (2015-06-17)

@@ -7,7 +7,7 @@ from zope.schema.vocabulary import SimpleVocabulary
 
 PROJECTNAME = 'interlegis.portalmodelo.api'
 
-REGISTER_URL = 'http://www.interlegis.leg.br/registrar?produto=portalmodelo&amp;versao=3.0'
+REGISTER_URL = 'https://www.interlegis.leg.br/registrar?produto=portalmodelo&amp;versao=3.0'
 
 
 class HiddenProfiles(object):
